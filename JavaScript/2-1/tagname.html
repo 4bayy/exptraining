@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body >
+    <!-- <p id="p1" >First Name </p> -->
+    <!-- <button onclick="handleClick(event)" id="btn">Click Me</button> -->
+    <!-- <p>Second Name</p> -->
+
+    <input type="text" id="email" value="hghgh">Email<br>
+    <input type="button" value="" id="btn">
+    <script>        
+      document.getElementById('email').setAttribute('value','me@sample.com');
+     let res =  document.getElementById('email').getAttribute('type')
+      console.log(res);
+
+      let res1 = document.getElementById('btn').getAttribute('type');
+      console.log(res1);
+    </script>
+
+</body>
+</html>

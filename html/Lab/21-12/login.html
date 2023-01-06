@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!-- <link rel="stylesheet" href="style.css"> -->
+</head>
+<style>
+   body{
+    margin: 0;
+    padding: 0;
+    background: white;
+
+     }
+     #main
+     {
+        background: whitesmoke;
+        width: 400px;
+        height:400px;
+        display: flex;
+        margin-top: 150px;
+        margin-left: 500px;
+        
+     }
+     .main
+     {
+        margin-top: 20px;
+        margin-left: 20px;
+        padding: 20px;
+     }
+     .main .email
+     {
+        width: 200px;
+        height: 20px;
+        border: 1px solid black;
+        margin-top: 20px;
+     }
+     .main .password
+     {
+        width: 200px;
+        height: 20px;
+        border:1px solid black;
+        margin-top: 30px;
+     }
+     h1{
+        color: blue;
+        margin-left: 30px;
+     }
+     input{
+        padding: 12px;
+        margin: 10px;
+     }
+     input [type=text]
+     {
+        box-shadow: 0 0 15px 4px rgba(0, 0, 0,0.06);
+
+     }
+     .username .password
+     {
+        border-radius: 10px;/* make the input round*/
+     }
+      .main .send-btn 
+     {
+        background: green;
+        padding: 10px;
+        width:80px;
+        border-radius: 10px;
+     }
+</style>
+<body>
+    
+<div id="main">
+    <div class="main">
+        <h1>Welcome Again !</h1>
+        <form action="POST" class="login-form form">
+            <input type="email" class="email" placeholder="Email">
+            <input type="password" class="password" placeholder="Password"><br>
+             <a class="forgot-link" href="#">Forgot password?</a>
+            <input type="button" value="Login" class="send-btn">
+
+            
+            <div class="form-link-holder">
+              Don't you have an account?
+              <a href="">&nbsp; &nbsp;Signup</a>
+              
+            </div>
+          </form>
+    </div>
+</div>
+  
+</body>
+
+ 
+</html>

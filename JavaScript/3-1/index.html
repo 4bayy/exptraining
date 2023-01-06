@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="index.js"></script>
+</head>
+<body>
+    <!-- <input type="text"  tabindex="1" id="target" onclick="executeEvent(event)"/>
+    <button onclick="selectTextBox()">Select a Box</button>
+    <h1 id="result"></h1>
+
+    <div id="button" style="height: 150px; background-color: aqua;"></div>
+    <hr>
+    <input type="range" min="10" max="100" value="50" onchange="executeEvent(event)"> -->
+    <button>Click me</button>
+    <button>Click me</button>
+    <!-- <div>
+    <button class="">Click ME</button>
+    <button class="btn">Click ME</button>
+    <button class="btn">Click ME</button>
+    </div> -->
+<script>
+    // const target = document.getElementById('target');
+
+    // function selectTextBox(){
+    //     target.focus();
+    // }
+    // function executeEvent(e){
+    //     console.log(e);
+    // }
+    // const res = document.getElementById('result');
+    // function executeEvent(e)
+    // {
+    //     res.innerText = e.target.value;
+
+    // }
+
+    // change width
+    // const btn = document.getElementById('button');
+    // function executeEvent(e){
+    //     btn.style.width = `${e.target.value}px`;
+    // }
+
+//buttton 
+//    const buttons = document.querySelectorAll(`div .btn`);
+//    buttons.forEach(btn => {
+//     btn.style.backgroundColor = 'teal';
+//     });
+  document.querySelectorAll('button').forEach(btn =>{
+    btn.addEventListener('click',(e)=>{
+        e.target.innerText ='clicked';
+    });
+  })
+</script>
+</body>
+</html>

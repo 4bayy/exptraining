@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body >
+    <p id="p1" style="color: hsl(120, 100%, 25%)" onclick="handleClick(event)">Hello World </p>
+    <button onclick="handleClick(event)" id="btn">Click Me</button>
+
+    
+    <script>
+        // dom 
+
+        // const element = document.getElementById('p1');
+        // const button = document.getElementById('btn');
+        //styles
+        // element.style.color = 'blue';
+        // element.style.fontSize ='20px';
+        // element.style.textAlign = 'center';
+        // element.style.fontWeight = 'bold';
+        //EVENT 
+        function handleClick(e){
+            console.log("hello");
+            e.target.style.color = "red";
+            e.target.innerText = "clicked";
+            e.target.style.background = "green";
+            
+        }
+    </script>
+
+</body>
+</html>
