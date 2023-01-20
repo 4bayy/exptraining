@@ -1,0 +1,15 @@
+C:\Users\abhay.k\Desktop\Experion\Exptraining\C#\Lab\C-Sharp-Question\obj\Debug\net6.0\C-Sharp-Question.csproj.AssemblyReference.cache
+C:\Users\abhay.k\Desktop\Experion\Exptraining\C#\Lab\C-Sharp-Question\obj\Debug\net6.0\C-Sharp-Question.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abhay.k\Desktop\Experion\Exptraining\C#\Lab\C-Sharp-Question\obj\Debug\net6.0\C-Sharp-Question.AssemblyInfoInputs.cache
+C:\Users\abhay.k\Desktop\Experion\Exptraining\C#\Lab\C-Sharp-Question\obj\Debug\net6.0\C-Sharp-Question.AssemblyInfo.cs
+C:\Users\abhay.k\Desktop\Experion\Exptraining\C#\Lab\C-Sharp-Question\obj\Debug\net6.0\C-Sharp-Question.csproj.CoreCompileInputs.cache
+C:\Users\abhay.k\Desktop\Experion\Exptraining\C#\Lab\C-Sharp-Question\bin\Debug\net6.0\C-Sharp-Question.exe
+C:\Users\abhay.k\Desktop\Experion\Exptraining\C#\Lab\C-Sharp-Question\bin\Debug\net6.0\C-Sharp-Question.deps.json
+C:\Users\abhay.k\Desktop\Experion\Exptraining\C#\Lab\C-Sharp-Question\bin\Debug\net6.0\C-Sharp-Question.runtimeconfig.json
+C:\Users\abhay.k\Desktop\Experion\Exptraining\C#\Lab\C-Sharp-Question\bin\Debug\net6.0\C-Sharp-Question.dll
+C:\Users\abhay.k\Desktop\Experion\Exptraining\C#\Lab\C-Sharp-Question\bin\Debug\net6.0\C-Sharp-Question.pdb
+C:\Users\abhay.k\Desktop\Experion\Exptraining\C#\Lab\C-Sharp-Question\obj\Debug\net6.0\C-Sharp-Question.dll
+C:\Users\abhay.k\Desktop\Experion\Exptraining\C#\Lab\C-Sharp-Question\obj\Debug\net6.0\refint\C-Sharp-Question.dll
+C:\Users\abhay.k\Desktop\Experion\Exptraining\C#\Lab\C-Sharp-Question\obj\Debug\net6.0\C-Sharp-Question.pdb
+C:\Users\abhay.k\Desktop\Experion\Exptraining\C#\Lab\C-Sharp-Question\obj\Debug\net6.0\C-Sharp-Question.genruntimeconfig.cache
+C:\Users\abhay.k\Desktop\Experion\Exptraining\C#\Lab\C-Sharp-Question\obj\Debug\net6.0\ref\C-Sharp-Question.dll

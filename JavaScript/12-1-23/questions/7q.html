@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+    const name = prompt("Enter your name");
+    const miles = prompt("Enter miles travelled");
+    if (miles>10000 && miles<20000){
+        
+        console.log(name,"You got 10 frequent flyer points");
+    }
+    else if(miles>20000 && miles<50000){
+       
+    console.log(name,"You got 20 frequent flyer points");
+    }
+    else if (miles>50000 && miles<100000){
+        
+        console.log(name,"You got 30 frequent flyer points");
+    }
+    else if (miles>100000){
+        
+        console.log(name,"You got 50 frequent flyer points");
+    }
+    else{
+        console.log("You doesnt get flyer points");
+    }
+    
+    </script>
+</body>
+</html>

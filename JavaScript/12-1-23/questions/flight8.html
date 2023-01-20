@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <button onclick="function1()"> Fare & Destination</button>
+    <!-- <button onclick="function2()">Destination</button> -->
+    <script>
+        var fare1 = [];
+        var destination = [];
+        
+        function function1() {
+            console.log("fun called");
+            for (let i = 0; i < 3; i++) {
+                fare1.push(prompt("Enter your 3 fair"));
+                console.log(fare1);
+                document.write(fare1[i]);
+                document.write('<br>');
+                
+            }
+
+
+            for (i = 0; i < 3; i++) {
+                destination.push(prompt("Enter your 3 Desintation"));
+                console.log(destination);
+                document.write(destination[i]);
+                document.write('<br>');
+            }
+        }
+    </script>
+</body>
+
+</html>

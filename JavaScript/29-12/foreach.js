@@ -3,7 +3,7 @@
 //     console.log(element);
 // });
 
-const person = {``
+const person = {
     name:"joe",
     age:20,
     email:null,
@@ -33,7 +33,7 @@ person.experience.forEach(exp => {
 // matrix
 
 const m1 = {
-    [1,2]
+    [1,2],
     [3,4]
 };
 console.log(m1);
