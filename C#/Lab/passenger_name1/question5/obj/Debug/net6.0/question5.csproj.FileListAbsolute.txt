@@ -1,0 +1,15 @@
+C:\Users\abhay.k\Desktop\Experion\Exptraining\C#\Lab\passenger_name1\question5\bin\Debug\net6.0\question5.exe
+C:\Users\abhay.k\Desktop\Experion\Exptraining\C#\Lab\passenger_name1\question5\bin\Debug\net6.0\question5.deps.json
+C:\Users\abhay.k\Desktop\Experion\Exptraining\C#\Lab\passenger_name1\question5\bin\Debug\net6.0\question5.runtimeconfig.json
+C:\Users\abhay.k\Desktop\Experion\Exptraining\C#\Lab\passenger_name1\question5\bin\Debug\net6.0\question5.dll
+C:\Users\abhay.k\Desktop\Experion\Exptraining\C#\Lab\passenger_name1\question5\bin\Debug\net6.0\question5.pdb
+C:\Users\abhay.k\Desktop\Experion\Exptraining\C#\Lab\passenger_name1\question5\obj\Debug\net6.0\question5.csproj.AssemblyReference.cache
+C:\Users\abhay.k\Desktop\Experion\Exptraining\C#\Lab\passenger_name1\question5\obj\Debug\net6.0\question5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abhay.k\Desktop\Experion\Exptraining\C#\Lab\passenger_name1\question5\obj\Debug\net6.0\question5.AssemblyInfoInputs.cache
+C:\Users\abhay.k\Desktop\Experion\Exptraining\C#\Lab\passenger_name1\question5\obj\Debug\net6.0\question5.AssemblyInfo.cs
+C:\Users\abhay.k\Desktop\Experion\Exptraining\C#\Lab\passenger_name1\question5\obj\Debug\net6.0\question5.csproj.CoreCompileInputs.cache
+C:\Users\abhay.k\Desktop\Experion\Exptraining\C#\Lab\passenger_name1\question5\obj\Debug\net6.0\question5.dll
+C:\Users\abhay.k\Desktop\Experion\Exptraining\C#\Lab\passenger_name1\question5\obj\Debug\net6.0\refint\question5.dll
+C:\Users\abhay.k\Desktop\Experion\Exptraining\C#\Lab\passenger_name1\question5\obj\Debug\net6.0\question5.pdb
+C:\Users\abhay.k\Desktop\Experion\Exptraining\C#\Lab\passenger_name1\question5\obj\Debug\net6.0\question5.genruntimeconfig.cache
+C:\Users\abhay.k\Desktop\Experion\Exptraining\C#\Lab\passenger_name1\question5\obj\Debug\net6.0\ref\question5.dll

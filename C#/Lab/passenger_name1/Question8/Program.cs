@@ -1,31 +1,38 @@
-﻿// Accept the flight fare in decimal array.
+﻿// Accept the destination in  array.
+Console.WriteLine("Enter the number of destination");
+int num =int.Parse(Console.ReadLine());
 
-string[] fare = new string[] {"100","15.60","20.50","300.0" };
-int len =fare.Length;
+Console.WriteLine("Enter Your Destination : ");
+string[] destination = new string[num];
 
-decimal[] faredec = new decimal[len];
-int i;
-// Convert to decimal array.
-for ( i = 0; i < fare.Length; i++)
+for (int i = 0;i < num; i++)
 {
-    faredec[i] = Convert.ToDecimal(fare[i]);
-    Console.WriteLine(faredec[i]);
-
+    destination[i] = Console.ReadLine();
 }
-// Get The Type of the Array
-Console.WriteLine(faredec.GetType());
 
+//Accept fligt fare to another array.
 
-//Accept destination to another array.
+Console.WriteLine("Enter your flight fare  :");
+decimal[] fare = new decimal[num];
 
-// ------------------------------------------//
-
-var name = "abhinav";
-
-string name2 = name.Replace("a", ",");
-//Console.WriteLine(name2);
-
-foreach (var item in name)
+for (int  i = 0; i < num; i++)
 {
-    Console.Write(item == 'a' ? '_' : item);
+    fare[i] = Convert.ToDecimal(Console.ReadLine());
 }
+
+Console.WriteLine("Enter a number :");
+int value =Convert.ToInt32(Console.ReadLine());
+
+if (value > num && value > num)
+{
+    Console.WriteLine($"Invalid value ,Enter  value between {num}");
+}
+else
+{
+    Console.WriteLine(new string('*',40));
+    Console.WriteLine($"Destination :{destination[value]} \t Fare :{fare[value]}");
+}
+
+
+
+
