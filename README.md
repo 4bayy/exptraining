@@ -1,5 +1,7 @@
 # exptraining
 Experion Lab and Learning Programs
 
-Html file include lab projects and daily learning assesments  programs
-Js file also include lab + daily  learning assesment programs
+<b>HTML</b> - Include lab projects and daily learning assesments  programs <br>
+<b>JS</b>  -  Include lab + daily  learning assesment programs
+
+<b>LINKEDIN</b> - Contains softskill and technical course completion  certificate 
